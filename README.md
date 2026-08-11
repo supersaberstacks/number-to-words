@@ -62,7 +62,3 @@ Output uses the short scale (a billion is 10⁹) and US convention, with no "and
 the tens. Groups are separated by commas, which makes long numbers far easier to read.
 
 Speech quality depends on the voices installed on your system, not on this code.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
